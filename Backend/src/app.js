@@ -4,7 +4,7 @@ const aiRoutes = require("./routes/ai.routes");
 const cors = require("cors");
 
 const app = express();
-
+//kaise ho
 app.use(cors());
 // body lene ke liye
 // ye ek middle ware hai
